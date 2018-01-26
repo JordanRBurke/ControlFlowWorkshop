@@ -24,14 +24,14 @@ public class Main {
 
         //For Loops
 
-        for(int i = 0; i <= 5; i++) {
-            System.out.println(i);
-        }
-
-        //Foreach
-        for(String food : fruit) {
-            if (food.contains("b") || food.contains("B"));
-        }
+//        for(int i = 0; i <= 5; i++) {
+//            System.out.println(i);
+//        }
+//
+//        //Foreach
+//        for(String food : fruit) {
+//            if (food.contains("b") || food.contains("B"));
+//        }
 
 
 
